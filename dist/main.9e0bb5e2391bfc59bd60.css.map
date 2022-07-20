@@ -1,0 +1,1 @@
+{"version":3,"file":"main.9e0bb5e2391bfc59bd60.css","mappings":";;;AAAA;EACE;EACA;EACA;AACF,C","sources":["webpack://webpacksvg/./src/style/style.scss"],"sourcesContent":[".bg {\r\n  background-image: url('../img/kanbanchi-background.svg');\r\n  width: 1000px;\r\n  height: 1000px;\r\n}\r\n\r\n"],"names":[],"sourceRoot":""}
